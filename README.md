@@ -1,0 +1,2 @@
+# javascript-string
+JavaScript String
